@@ -93,6 +93,8 @@ h1 {
     color: #280247;
     text-align: center;
     font-style: oblique;
+    font-size: xx-large;
+    font-weight: 900;
 
 }
 
@@ -133,4 +135,21 @@ a.info-box {
     float: right;
     margin-top: 25px;
     height: 40px;
+}
+
+/*================ INFO BOX ================*/
+
+#info-box-full {
+    background-color: rgba(138, 119, 157, 0.552);
+    width: 90%;
+    display: block;
+    margin: auto;
+    margin-top: 12px;
+    padding: 10px;
+}
+
+
+
+#info-box-full img {
+    width: 33%;
 }
