@@ -148,8 +148,7 @@ a.info-box {
     padding: 10px;
 }
 
-
-
 #info-box-full img {
+    height: 300px;
     width: 33%;
 }
