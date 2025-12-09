@@ -152,3 +152,31 @@ a.info-box {
     height: 300px;
     width: 33%;
 }
+
+/*================ FORM ================*/
+
+input {
+    width: 100%;
+    height: 25px;
+    margin: 12px 0;
+    border: 3px solid #280247;
+}
+
+textarea {
+    width: 100%;
+    height: 25px;
+    margin: 12px 0;
+    border: 3px solid #280247;
+}
+
+.button {
+    display: block;
+    background-color: #55024e;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 12px 0;
+    padding: 8px 0;
+}
